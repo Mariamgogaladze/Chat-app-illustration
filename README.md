@@ -8,7 +8,7 @@ Welcome to my submission for the Chat App Illustration Challenge on Frontend Men
 
 ## Demo
 
-You can try out the live demo of the Chat-app illustration here :
+You can try out the live demo of the Chat-app illustration here : https://mariamgogaladze.github.io/Chat-app-illustration/
 
 # Challenge Details
 For this challenge, I was tasked with creating a chat app design using HTML and CSS. I decided to create a mobile-first design, focusing on the user experience for mobile users. I created a custom illustration of a mobile phone for the header of the design, which sets the tone for the overall app design.
